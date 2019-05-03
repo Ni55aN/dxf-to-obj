@@ -1,0 +1,6 @@
+dxf/*
+!obj/.gitkeep
+obj/*
+!obj/.gitkeep
+
+.sonarlint
